@@ -1,0 +1,19 @@
+minor_collections:      718
+major_collections:      17
+compactions:            0
+forced_major_collections: 2
+
+minor_words:    174176724
+promoted_words:   7932318
+major_words:      9593608
+
+top_heap_words: 4853871
+heap_words:     2150745
+live_words:     1142601
+free_words:      998815
+largest_free:         0
+fragments:         9329
+
+live_blocks: 237451
+free_blocks: 0
+heap_chunks: 0

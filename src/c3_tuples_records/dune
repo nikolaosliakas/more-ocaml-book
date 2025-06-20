@@ -1,0 +1,3 @@
+(executable
+ (name tup_rec_exercises)
+ (libraries unix))
